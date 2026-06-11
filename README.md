@@ -24,7 +24,6 @@ lib/
 
 ## Запуск в Brave (Web)
 
-Если экран белый — Flutter не может загрузить CanvasKit с CDN. Используйте локальный CanvasKit:
 
 ```bash
 flutter pub get
